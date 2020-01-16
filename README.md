@@ -16,6 +16,7 @@ USING :
 EXEMPLE :
 
 > regina XXL x2; fantasia M x3; margarita S x1
+
 > status
 
 
