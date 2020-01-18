@@ -13,7 +13,7 @@ USING :
       
       ./plazza [COOK_TIME : 0 - 1] [NB_COOKS][REPLACE_STOCK_TIME].
       
-      S := TYPE SIZE NUMBER [; TYPE SIZE NUMBER]*
+      S := TYPE SIZE NUMBER [; TYPE SIZE NUMBER]*.
       TYPE := [a..zA..Z]+.      
       SIZE := S|M|L|XL|XXL.
       NUMBER := x[1..9][0..9]*.
